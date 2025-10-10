@@ -4,7 +4,6 @@ A comprehensive, production-ready DeFi staking protocol featuring multi-asset st
 
 ![Solidity](https://img.shields.io/badge/Solidity-^0.8.19-363636?logo=solidity)
 ![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-7-blue)
-![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-3000+-green)
 
 ## 🏗️ Architecture Overview
 
@@ -330,4 +329,5 @@ MIT License - See LICENSE file
 
 ---
 Perfect for showcasing blockchain development expertise! 🎯
+
 
